@@ -9,4 +9,4 @@ Tracker helps to get the HSV value of color which needs to be tracked.
 
 Stacked Images:
 The stacked images shown below contains Orignal image, HSV converted image, mask for colored track, and the resulting image containing the color track to be detected.
-<img src="images/stecked_image">
+<img src="images/stacked_image">
